@@ -58,8 +58,10 @@ public class Calculator {
     }
     public static int div(int x, int y)
     {
-    	int result=0;
+    	int result;
+    	result = 0 ;
 //      write your code here
+    	
     	result = x / y ;
     	return result;
     }
